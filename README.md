@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/2dd46858-224d-44aa-94d4-e6de71750482
 ## *Installation & Setup*
 1. *Clone the repository*  
    sh
-   git clone https://github.com/your-username/custom-bottom-nav-bar.git
+   git clone [https://github.com/Parth27904/yolo](https://github.com/Parth27904/yolo)
    
 2. *Navigate to the project directory*  
    sh
