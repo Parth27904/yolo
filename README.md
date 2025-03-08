@@ -1,4 +1,4 @@
-# *Custom Bottom Navigation Bar App*  
+# *Yolo Pay*  
 
 A Flutter application with a *custom bottom navigation bar, including a **QR scanner button* in the center. The navigation bar highlights the selected tab *without animations or transitions*, ensuring a clean UI.
 
