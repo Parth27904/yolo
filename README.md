@@ -1,16 +1,51 @@
-# yolo
+# *Custom Bottom Navigation Bar App*  
 
-A new Flutter project.
+A Flutter application with a *custom bottom navigation bar, including a **QR scanner button* in the center. The navigation bar highlights the selected tab *without animations or transitions*, ensuring a clean UI.
 
-## Getting Started
+## *Features*
+✅ Custom *bottom navigation bar* with three items (Home, QR Scanner, Settings).  
+✅ *Selected item gets an outline*, while unselected items remain grey.  
+✅ *QR scanner button stays centered* and doesn’t change appearance.  
+✅ Simple and clean UI without transitions or animations.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## *Screenshots*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/facdcff4-eadd-4d75-b8f1-7dcce9439fed" width="30%">
+  <img src="https://github.com/user-attachments/assets/4683e449-b5f6-481f-bee3-ec1109c2ea42" width="30%">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## *Video*
+https://github.com/user-attachments/assets/2dd46858-224d-44aa-94d4-e6de71750482
+
+
+---
+
+## *Installation & Setup*
+1. *Clone the repository*  
+   sh
+   git clone https://github.com/your-username/custom-bottom-nav-bar.git
+   
+2. *Navigate to the project directory*  
+   sh
+   cd custom-bottom-nav-bar
+   
+3. *Install dependencies*  
+   sh
+   flutter pub get
+   
+4. *Run the application*  
+   sh
+   flutter run
+   
+
+---
+
+## *Usage*
+- Tap *"Home"* or *"Genie"* to navigate.
+- Tap the *QR scanner* button in the center.
+- The selected icon gets an *outline*, while others remain inactive.
+
+---
